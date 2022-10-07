@@ -1,2 +1,2 @@
 # OSINT_RESOURCES
-#hacktoberfest #hacktoberfest2022 #hacktoberfest-accepted
+collection of OSINT resources
